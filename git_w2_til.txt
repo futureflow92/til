@@ -1,0 +1,4 @@
+Issue 할당
+Branch 생성
+Merge
+Merge Conflict 해결
